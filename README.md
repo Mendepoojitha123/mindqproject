@@ -1,0 +1,2 @@
+# mindqproject
+details
